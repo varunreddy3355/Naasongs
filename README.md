@@ -1,6 +1,6 @@
 # Naasongs
  "Naas ongs" movie Telugu, Hindi songs downloader.
- [Naasongs](https://naasongslyrics.com) "Naasongs" movie songs downloader
+[Naasongs](https://naasongslyrics.com) movie songs downloader
 Pre Requisites:
 1)Pyhton 3
 2)Requests module
