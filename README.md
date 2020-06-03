@@ -1,6 +1,6 @@
 # Naa songs Mp3 Downloader 
- "Naas ongs" movie Telugu, Hindi songs downloader.
-[Naasongs](https://naasongslyrics.com) movie songs downloader
+ "Naa songs" movie Telugu, Hindi songs downloader.
+[Naasongs](https://naa-songs.download) movie songs downloader
 Pre Requisites:
 1)Pyhton 3
 2)Requests module
