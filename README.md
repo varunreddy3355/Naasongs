@@ -1,6 +1,6 @@
 # Naa songs Mp3 Downloader 
  "Naa songs" movie Telugu, Hindi songs downloader.
-[Naa songs](https://naa-songs.download) movie songs downloader
+[Naa songs](https://naasongslyrics.com/) movie songs downloader
 Pre Requisites:
 1)Pyhton 3
 2)Requests module
